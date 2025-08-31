@@ -11,12 +11,13 @@
 ---
 
 ## 👨‍💻 About Me
-Name: Rayhan Arie Fahreza  
-Location: Indonesia
-School: Pelita Nusantara Vocational High School  
-Focus: Cybersecurity • Web Development  
-OS: Windows  
-Quote: "Code. Build. Secure. Repeat."
+Name: Rayhan Arie Fahreza <br>
+Location: Indonesia (ID)<br>
+School: SMK Plus Pelita Nusantara (Vocational High School)<br>
+Major: Computer Science // Rekayasa Perangkat Lunak (CompSci // RPL)<br>
+Division : Cybersecurity & Webdevolopment<br>
+OS: Windows  <br>
+Quote: "Code. Build. Secure. Repeat."<br>
 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,windows," /> 
