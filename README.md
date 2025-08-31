@@ -5,7 +5,7 @@
 
 <!-- Efek Mengetik Animasi -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1C069C&center=true&vCenter=true&width=800&lines=Hi+there+👋;+I'm+Rayhan+Arie+Fahreza+🚀;Welcome+to+my+GitHub+Profile!;WebDevolopment+%26+Cybersecurity+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8C51ED&center=true&vCenter=true&width=800&lines=Hi+there+👋;+I'm+Rayhan+Arie+Fahreza+🚀;Welcome+to+my+GitHub+Profile!;WebDevolopment+%26+Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
