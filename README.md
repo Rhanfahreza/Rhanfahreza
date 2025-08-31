@@ -17,7 +17,7 @@ School: SMK Plus Pelita Nusantara (Vocational High School)<br>
 Major: Computer Science // Rekayasa Perangkat Lunak (CompSci // RPL)<br>
 Division : Cybersecurity & Webdevolopment<br>
 OS: Windows  <br>
-Quote: "Code. Build. Secure. Repeat."<br>
+Quote: "Never give up"<br>
 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,windows," /> 
