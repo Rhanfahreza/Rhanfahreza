@@ -5,13 +5,12 @@
 
 <!-- Efek Mengetik Animasi -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6CF8FF&center=true&vCenter=true&width=800&lines=Hi+there+👋;+I'm+Rayhan+Arie+Fahreza+🚀;Welcome+to+my+GitHub+Profile!;Future+Full-Stack+Developer+%26+Cybersecurity+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6CF8FF&center=true&vCenter=true&width=800&lines=Hi+there+👋;+I'm+Rayhan+Arie+Fahreza+🚀;Welcome+to+my+GitHub+Profile!;WebDevolopment+%26+Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-yaml
 Name: Rayhan Arie Fahreza
 Location: Indonesia 🇮🇩
 School: Pelita Nusantara Vocational High School
