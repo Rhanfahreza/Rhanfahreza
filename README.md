@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 Name: Rayhan Arie Fahreza  
-Location: Indonesia 🇮🇩  
+Location: Indonesia
 School: Pelita Nusantara Vocational High School  
 Focus: Cybersecurity • Web Development  
 OS: Windows  
