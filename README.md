@@ -19,7 +19,7 @@ OS: Windows
 Quote: "Code. Build. Secure. Repeat."
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,vscode,git,github" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,git,github" /> 
 </p>
 
 <p align="center"> 
