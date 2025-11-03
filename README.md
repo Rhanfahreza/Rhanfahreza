@@ -5,7 +5,7 @@
 
 <!-- Efek Mengetik Animasi -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8C51ED&center=true&vCenter=true&width=800&lines=Hi+there+👋;+I'm+Rayhan+Arie+Fahreza+🚀;Welcome+to+my+GitHub+Profile!;WebDevolopment+%26+Cybersecurity+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8C51ED&center=true&vCenter=true&width=800&lines=Haii+Everyone+👋;+I'm+Rayhan+Arie+Fahreza+🚀;Welcome+to+my+GitHub+Profile!;Software+Engineering+%26+Cybersecurity" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,8 +15,8 @@ Name: Rayhan Arie Fahreza <br>
 Location: Indonesia (ID)<br>
 School: SMK Plus Pelita Nusantara (Vocational High School)<br>
 Major: Computer Science // Rekayasa Perangkat Lunak (CompSci // RPL)<br>
-Division : Cybersecurity & Webdevolopment<br>
-OS: Windows  <br>
+Division : Cybersecurity & Software Engineering<br>
+OS: Windows & Kali Linux  <br>
 Quote: "Never give up"<br>
 
 <p align="center"> 
