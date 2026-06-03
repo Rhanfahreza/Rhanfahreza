@@ -20,7 +20,7 @@ OS: Windows 11, Athena Os, Kali linux, Manjaro<br>
 Quote: "Never give up"<br>
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,windows,kalilinux" /> 
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,windows,linux" /> 
 </p>
 
 <p align="center"> 
