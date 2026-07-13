@@ -1,23 +1,23 @@
-<!-- Header Animasi Pengetikan Terminal -->
-<h1 align="center">Student</h1>
+
+<h1 align="center">|| Welcome ||</h1>
 
 ---
 
-# Rayhan Arie Fahreza
+# ||Rayhan Arie Fahreza
 
 Based in Bogor, I am a technology student with a core interest in cybersecurity and system architecture. I thrive on curiosity—exploring how systems function under the hood. To maintain balance, I am an avid trail runner and casual gamer in my free time.
 
-# Quick Overview
+# ||Quick Overview
 
 - **Academic Base:** SMK Plus Pelita Nusantara (Vocational High School)
-- **Specialization:** Software Engineering (RPL)
-- **Field of Interest:** Cybersecurity, System Architecture, Web Development & Backend
-- **Daily Drivers (OS):** Windows 11, Athena OS, Kali Linux, Manjaro, Arch Linux
+- **Specialization:** Rekayasa Perangkat Lunak(RPL)
+- **Field of Interest:** Cybersecurity, System Architecture, Web Development 
+- **Operating System (OS):** Windows 11, Athena OS, Kali Linux, Manjaro, Arch Linux
 - **Personal Creed:** *"Never give up"*
 
 ---
 
-#  Tech Stack 
+#  ||Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,windows,linux,php,golang,laravel" alt="Tech Stack" />
