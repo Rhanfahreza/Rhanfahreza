@@ -1,17 +1,13 @@
 <!-- Header Animasi Pengetikan Terminal -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8C51ED&center=true&vCenter=true&width=800&lines=Welcome+to+my+mainframe...;Starting+System;Initiating+Protocol...;%2F%2F+Rayhan+Arie+Fahreza;" alt="Typing SVG" />
-  </a>
-</h1>
+<h1 align="center">Student</h1>
 
 ---
 
-### // Rayhan Arie Fahreza
+# Rayhan Arie Fahreza
 
 Based in Bogor, I am a technology student with a core interest in cybersecurity and system architecture. I thrive on curiosity—exploring how systems function under the hood. To maintain balance, I am an avid trail runner and casual gamer in my free time.
 
-### // Quick Overview
+# Quick Overview
 
 - **Academic Base:** SMK Plus Pelita Nusantara (Vocational High School)
 - **Specialization:** Software Engineering (RPL)
@@ -21,7 +17,7 @@ Based in Bogor, I am a technology student with a core interest in cybersecurity 
 
 ---
 
-###  Tech Stack 
+#  Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,windows,linux,php,golang,laravel" alt="Tech Stack" />
@@ -29,7 +25,7 @@ Based in Bogor, I am a technology student with a core interest in cybersecurity 
 
 ---
 
-### // Activity & Stats
+# Activity & Stats
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Rhanfahreza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" alt="GitHub Stats"> 
