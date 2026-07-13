@@ -1,27 +1,35 @@
-<!-- Banner Animasi -->
-<p align="center">
-  <img src="https://i.ibb.co/6Y0d8hH/banner-github.gif" alt="Banner" width="100%">
-</p>
-
-<!-- Efek Mengetik Animasi -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8C51ED&center=true&vCenter=true&width=800&lines=Haii+Everyone+👋;+I'm+Rayhan+Arie+Fahreza+🚀;Welcome+to+my+GitHub+Profile!;Software+Engineering+%26+Cybersecurity" alt="Typing SVG" />
-</p>
+<!-- ANIMASI HEADER: ORANG MENGETIK DI TERMINAL -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=9146FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+mainframe...;Starting+System;Initiating+Protocol...;%2F%2F+Rayhan+Arie+Fahreza;" alt="Typing SVG" />
+  </a>
+</h1>
 
 ---
 
-## 👨‍💻 About Me
-Name: Rayhan Arie Fahreza <br>
-Location: Indonesia (ID)<br>
-School: SMK Plus Pelita Nusantara (Vocational High School)<br>
-Major: Computer Science // Rekayasa Perangkat Lunak (CompSci // RPL)<br>
-Division : Cybersecurity & Software Engineering<br>
-OS: Windows 11, Athena Os, Kali linux, Manjaro,arch linux<br>
-Quote: "Never give up"<br>
+### // Rayhan Arie Fahreza
+
+I'm a Vocational High School student in Indonesia specializing in **Software Engineering** and **Cybersecurity**. Passionate about building software, network security, and exploring Linux environments.
+
+### // Details
+
+- **School:** SMK Plus Pelita Nusantara
+- **Major:** Computer Science / Rekayasa Perangkat Lunak (RPL)
+- **Division:** Cybersecurity & Software Engineering
+- **OS:** Windows 11, **Athena OS**, **Kali Linux**, Manjaro, **Arch Linux**
+- **Quote:** *"Never give up"*
+
+---
+
+### // Tools & Tech Stack
 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,windows,linux,php,golang,laravel" /> 
 </p>
+
+---
+
+### // Activity & Stats
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Rhanfahreza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%"> 
@@ -33,5 +41,5 @@ Quote: "Never give up"<br>
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhanfahreza"/>
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhanfahreza&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</p>
