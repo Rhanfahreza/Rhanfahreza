@@ -1,7 +1,7 @@
-<!-- ANIMASI HEADER: ORANG MENGETIK DI TERMINAL -->
+<!-- Header Animasi Pengetikan Terminal -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=9146FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+mainframe...;Starting+System;Initiating+Protocol...;%2F%2F+Rayhan+Arie+Fahreza;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8C51ED&center=true&vCenter=true&width=800&lines=Welcome+to+my+mainframe...;Starting+System;Initiating+Protocol...;%2F%2F+Rayhan+Arie+Fahreza;" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -9,22 +9,22 @@
 
 ### // Rayhan Arie Fahreza
 
-I'm a Vocational High School student in Indonesia specializing in **Software Engineering** and **Cybersecurity**. Passionate about building software, network security, and exploring Linux environments.
+Based in Bogor, I am a technology student with a core interest in cybersecurity and system architecture. I thrive on curiosity—exploring how systems function under the hood. To maintain balance, I am an avid trail runner and casual gamer in my free time.
 
-### // Details
+### // Quick Overview
 
-- **School:** SMK Plus Pelita Nusantara
-- **Major:** Computer Science / Rekayasa Perangkat Lunak (RPL)
-- **Division:** Cybersecurity & Software Engineering
-- **OS:** Windows 11, **Athena OS**, **Kali Linux**, Manjaro, **Arch Linux**
-- **Quote:** *"Never give up"*
+- **Academic Base:** SMK Plus Pelita Nusantara (Vocational High School)
+- **Specialization:** Software Engineering (RPL)
+- **Field of Interest:** Cybersecurity, System Architecture, Web Development & Backend
+- **Daily Drivers (OS):** Windows 11, Athena OS, Kali Linux, Manjaro, Arch Linux
+- **Personal Creed:** *"Never give up"*
 
 ---
 
-### // Tools & Tech Stack
+###  Tech Stack 
 
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,windows,linux,php,golang,laravel" /> 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,windows,linux,php,golang,laravel" alt="Tech Stack" />
 </p>
 
 ---
@@ -32,14 +32,14 @@ I'm a Vocational High School student in Indonesia specializing in **Software Eng
 ### // Activity & Stats
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Rhanfahreza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rhanfahreza&theme=tokyonight&hide_border=true&background=0d1117" width="48%"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Rhanfahreza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" alt="GitHub Stats"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rhanfahreza&theme=tokyonight&hide_border=true&background=0d1117" width="48%" alt="GitHub Streak"> 
 </p>
 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=Rhanfahreza&theme=onedark&no-frame=true&row=1&column=6" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Rhanfahreza&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies" /> 
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhanfahreza&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhanfahreza&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
 </p>
