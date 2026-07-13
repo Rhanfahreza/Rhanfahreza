@@ -16,7 +16,7 @@ Location: Indonesia (ID)<br>
 School: SMK Plus Pelita Nusantara (Vocational High School)<br>
 Major: Computer Science // Rekayasa Perangkat Lunak (CompSci // RPL)<br>
 Division : Cybersecurity & Software Engineering<br>
-OS: Windows 11, Athena Os, Kali linux, Manjaro<br>
+OS: Windows 11, Athena Os, Kali linux, Manjaro,arch linux<br>
 Quote: "Never give up"<br>
 
 <p align="center"> 
