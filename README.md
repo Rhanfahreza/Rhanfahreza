@@ -12,7 +12,7 @@ i am c0mra1dddd or you could call me han or c0mra1dddd
 
 <div align="center">
   
- ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,laravel,typescript,javascript,go-lang&theme=dark)
+ ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,laravel,typescript,javascript,go&theme=dark)
 </div>
 
 ---
