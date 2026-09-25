@@ -1,41 +1,26 @@
+Hi there 👋
 
-<h1 align="center">|| Welcome ||</h1>
+i am c0mra1dddd or you could call me han or c0mra1dddd 
+- a developer that focused in ai/ml and fullstack development
+- current interst : low level, NLP and fullstack 
+- want to learn : ts, nextjs , keras, and kubernetes 
+- How to reach me: you could dm me on discord or email me
+- Pronouns: He/him
+  ---
 
----
+## 🛠️ Languages & Tools
 
-# ||Rayhan Arie Fahreza
-
-Based in Bogor, I am a technology student with a core interest in cybersecurity and system architecture. I thrive on curiosity—exploring how systems function under the hood. To maintain balance, I am an avid trail runner and casual gamer in my free time.
-
-# ||Quick Overview
-
-- **Academic Base:** SMK Plus Pelita Nusantara (Vocational High School)
-- **Specialization:** Rekayasa Perangkat Lunak(RPL)
-- **Field of Interest:** Cybersecurity, System Architecture, Web Development 
-- **Operating System (OS):** Windows 11, Athena OS, Kali Linux, Manjaro, Arch Linux
-- **Personal Creed:** *"Never give up"*
-
----
-
-#  ||Tech Stack 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,windows,linux,php,golang,laravel" alt="Tech Stack" />
-</p>
+<div align="center">
+  
+ ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,py,git,github,laravel,tensorflow,pytorch,powershell,bash,flask,nixos,docker,typescript,react,keras&theme=dark)
+</div>
 
 ---
 
-# Activity & Stats
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Rhanfahreza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" alt="GitHub Stats"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rhanfahreza&theme=tokyonight&hide_border=true&background=0d1117" width="48%" alt="GitHub Streak"> 
+<div align="justfity">
+  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brah4729&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brah4729&layout=compact&langs_count=8&theme=algolia" />
 </p>
 
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=Rhanfahreza&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies" /> 
-</p>
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhanfahreza&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
-</p>
+</div>
