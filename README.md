@@ -1,12 +1,7 @@
 Hi there 👋
 
 i am c0mra1dddd or you could call me han or c0mra1dddd 
-- a developer that focused in ai/ml and fullstack development
-- current interst : low level, NLP and fullstack 
-- want to learn : ts, nextjs , keras, and kubernetes 
-- How to reach me: you could dm me on discord or email me
-- Pronouns: He/him
-  ---
+
 
 ## 🛠️ Languages & Tools
 
